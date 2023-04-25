@@ -1,2 +1,3 @@
 Este es un archivo de git.
 Este es un cambio.
+Esta línea tiene que estar en la segunda posición.
